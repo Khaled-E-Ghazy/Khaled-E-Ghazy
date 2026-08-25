@@ -375,3 +375,6 @@ Build a professional career in **Cyber Security**, with a strong specialization 
 ---
 
 ⭐ Thanks for visiting my profile!
+## 🐍 My GitHub Contributions
+
+![Snake animation](https://raw.githubusercontent.com/Khaled-E-Ghazy/Khaled-E-Ghazy/output/github-contribution-grid-snake.svg)
